@@ -1,7 +1,7 @@
 Digger - README:
 Written By:
+Ben Keidar : 208308817 
 Alexander  Bord : 319263836
- Ben Keidar : 208308817 
 ===========================================================================
 General Description of program:
 to win the digger needs to eat all diamonds of all the levels before it's life value is set to 0, the victory window is oppened and the player can choose to quit or play again.
